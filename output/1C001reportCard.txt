@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C001	 First Name: Ohilesh		 Last Name: G
+Birth Date: 10-2-2005	 Email: ohileshgr1@gmail.com	 Contact Number: 9836746488
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 90
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 87
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 75
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 83
+
+
+ 	 Final Grade/Percentage: 96%.
+

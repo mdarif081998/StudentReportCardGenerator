@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C005	 First Name: Anjali		 Last Name: S
+Birth Date: 15-05-2006	 Email: anjalis@gmail.com	 Contact Number: 8943852840
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 93
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 57
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 44
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 91
+
+
+ 	 Final Grade/Percentage: 96%.
+

@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C003	 First Name: Vishal		 Last Name: Raj
+Birth Date: 01-10-2004	 Email: vishalraj@gmail.com	 Contact Number: 8736583749
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 78
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 92
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 66
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 78
+
+
+ 	 Final Grade/Percentage: 96%.
+

@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C002	 First Name: Niranjan		 Last Name: Patel
+Birth Date: 19-05-2006	 Email: niranjan@gmail.com	 Contact Number: 9756867848
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 96
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 85
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 77
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 86
+
+
+ 	 Final Grade/Percentage: 96%.
+

@@ -1,0 +1,14 @@
+				 REPORT CARD 
+
+
+Student Id: 1C009	 First Name: Pawan		 Last Name: R
+Birth Date: 16-01-2008	 Email: pawankr@gmail.com	 Contact Number: 9756865000
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 90
+Subject Id: 2	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 90
+Subject Id: 3	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 90
+
+
+ 	 Final Grade/Percentage: 67.5%.
+

@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C007	 First Name: MD		 Last Name: ARIF
+Birth Date: 10-08-1998	 Email: mdarif@gmail.com	 Contact Number: 9019784193
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 100
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 99
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 96
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 98
+
+
+ 	 Final Grade/Percentage: 96%.
+

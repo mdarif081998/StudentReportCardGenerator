@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C004	 First Name: Inthiyaz		 Last Name: S
+Birth Date: 15-08-2007	 Email: inthiyazs@gmail.com	 Contact Number: 9873546280
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 97
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 69
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 79
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 87
+
+
+ 	 Final Grade/Percentage: 96%.
+

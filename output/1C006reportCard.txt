@@ -1,0 +1,15 @@
+				 REPORT CARD 
+
+
+Student Id: 1C006	 First Name: Shreya		 Last Name: N
+Birth Date: 10-12-2005	 Email: shreyan@yahoo.com	 Contact Number: 6345783455
+
+
+Subject Id: 1	 Subject Name: English	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 88
+Subject Id: 2	 Subject Name: Physics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 94
+Subject Id: 3	 Subject Name: Chemistry	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 68
+Subject Id: 4	 Subject Name: Mathematics	 Max. Marks: 100	 Min. Marks: 40	 Marks Obtained: 86
+
+
+ 	 Final Grade/Percentage: 96%.
+
